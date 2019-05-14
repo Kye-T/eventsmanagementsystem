@@ -1,0 +1,14 @@
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.csprojAssemblyReference.cache
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.csproj.CoreCompileInputs.cache
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.exe.config
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.exe
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.pdb
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.exe
+C:\Users\Shane\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.pdb
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.exe.config
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.exe
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\bin\Debug\events management system.pdb
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.csprojAssemblyReference.cache
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.csproj.CoreCompileInputs.cache
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.exe
+C:\Users\j013003h\OneDrive - Staffordshire University\assignment 2\events management system\events management system\obj\Debug\events management system.pdb
